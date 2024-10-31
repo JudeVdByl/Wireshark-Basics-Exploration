@@ -64,25 +64,26 @@ The goal of this project is to explore basic functionality within Wireshark by a
 - **Task**: Use a filter to view only HTTP packets.
 - **Solution**: Applied an HTTP filter, displaying a narrowed list of packets relevant to HTTP traffic.
 
-   ![HTTP Filter](image8.png)
+   ![image](https://github.com/user-attachments/assets/9e534df8-6efb-4247-a1e4-7e7429e282e7)
 
 ### 9. Determining the Number of Displayed Packets
 - **Task**: Check the count of packets displayed after applying the HTTP filter.
 - **Solution**: After filtering, `1089` packets remained visible in the capture.
 
-   ![Displayed Packet Count](image9.png)
+   ![image](https://github.com/user-attachments/assets/ca8897dd-b82b-4fb7-b523-6a6cd3855b7a)
 
 ### 10. Identifying Total Number of Artists
 - **Task**: Locate the total number of artists by examining packet data.
 - **Solution**: Found three artists referenced in the packet capture.
 
-   ![Total Artists](image10.png)
+   ![image](https://github.com/user-attachments/assets/b4016610-10cb-481e-9a9b-a16372b14000)
 
 ### 11. Finding the Second Artist's Name
 - **Task**: Identify the name of the second artist from the packet data.
 - **Solution**: The second artist’s name was identified as "Blad3".
 
-   ![Second Artist Name](image11.png)
+   ![image](https://github.com/user-attachments/assets/a7ad4bbc-b786-45c0-bc8b-6ed289958110)
+
 
 ---
 
