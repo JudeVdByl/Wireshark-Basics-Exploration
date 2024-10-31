@@ -28,7 +28,8 @@ The goal of this project is to explore basic functionality within Wireshark by a
 - **Task**: Determine the total number of packets in the capture file.
 - **Solution**: Identified a total of `58620` packets in the packet capture summary.
 
-   ![Total Packets](image2.png)
+   ![image](https://github.com/user-attachments/assets/78bfd2a7-edee-4ac0-a494-fc257eb1380a)
+
 
 ### 3. Calculating SHA256 Hash of Capture File
 - **Task**: Find the SHA256 hash of the entire capture file.
