@@ -21,8 +21,8 @@ The goal of this project is to explore basic functionality within Wireshark by a
 - **Task**: Read the "capture file comment" to find the flag.
 - **Solution**: Located the flag within the comment section, which revealed "TryHackMe_Wireshark_Demo."
 
-   ![Capture File Comment](![image](https://github.com/user-attachments/assets/2d069cf5-586e-409b-b992-20ff2cddf1f3)
-)
+   ![Capture File Comment](https://github.com/user-attachments/assets/2d069cf5-586e-409b-b992-20ff2cddf1f3)
+
 
 ### 2. Counting Total Packets
 - **Task**: Determine the total number of packets in the capture file.
